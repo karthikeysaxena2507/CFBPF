@@ -1,5 +1,5 @@
-# CF-Brokerage-Frontend
-The frontend of Consumer Finance Brokerage Prototype. Find the live version [here](https://cf-brokerage.netlify.app/).
+<!-- # CF-Brokerage-Frontend
+The frontend of Consumer Finance Brokerage Prototype. Find the live version [here](https://cf-brokerage.netlify.app/). -->
 
 ## Requirements to run the app locally 
 * Latest version of **Nodejs** and **npm** (Node package manager) must be installed.
